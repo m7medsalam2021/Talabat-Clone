@@ -3,14 +3,18 @@
 #Backend
 Backend API for a Talabat-style food delivery platform, built with ASP.NET Core. Supports user auth, restaurant management, and order processing using clean architecture.
 
-#Talabat APIs
+# Talabat APIs
 This is a Talabat Clone Project built in Onion Architecture Based on the following Design Patterns:
+
 Repository Design Pattern.
+
 Specification Design Pattern.
+
 UnitOfWork Design Pattern.
+
 Builder Design Pattern.
 
-#Libraries Used And Packages
+# Libraries Used And Packages
 StackExchange.Redis.
 
 Microsoft.EntityFrameworkCore.Tools.
